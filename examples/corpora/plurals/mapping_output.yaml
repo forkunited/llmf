@@ -1,0 +1,47 @@
+-
+  Text: 'This is a sentence.'
+  Nouns: 'sentence'
+  Plurality Label: 'NO_PLURALS'
+  Completion Success: 'True'
+  Error Message: 'None'
+  Completion: |2-
+    Nouns from the text: sentence
+    Label for the text: NO_PLURALS
+-
+  Text: 'These are sentences.'
+  Nouns: 'sentences'
+  Plurality Label: 'HAS_PLURALS'
+  Completion Success: 'True'
+  Error Message: 'None'
+  Completion: |2-
+    Nouns from the text: sentences
+    Label for the text: HAS_PLURALS
+-
+  Text: 'This is another sentence.'
+  Nouns: 'sentence'
+  Plurality Label: 'NO_PLURALS'
+  Completion Success: 'True'
+  Error Message: 'None'
+  Completion: |2-
+    Nouns from the text: sentence
+    Label for the text: NO_PLURALS
+-
+  Text: |2-
+    This is a text consisting of sentences.
+    They are on separate lines.
+  Nouns: 'text, sentences, lines'
+  Plurality Label: 'HAS_PLURALS'
+  Completion Success: 'True'
+  Error Message: 'None'
+  Completion: |2-
+    Nouns from the text: text, sentences, lines
+    Label for the text: HAS_PLURALS
+-
+  Text: 'It's a sentence.'
+  Nouns: 'sentence'
+  Plurality Label: 'NO_PLURALS'
+  Completion Success: 'True'
+  Error Message: 'None'
+  Completion: |2-
+    Nouns from the text: sentence
+    Label for the text: NO_PLURALS

@@ -1,0 +1,20 @@
+-
+  Text: She walked to the store.
+  Nouns: She, store
+  Plurality Label: NO_PLURALS
+-
+  Text: There are many trees.
+  Nouns: trees
+  Plurality Label: HAS_PLURALS
+-
+  Text: I like to make cakes.
+  Nouns: I, cakes
+  Plurality Label: HAS_PLURALS
+-
+  Text: I will make bread.
+  Nouns: I, bread
+  Plurality Label: NO_PLURALS
+-
+  Text: I bake.
+  Nouns: I
+  Plurality Label: NO_PLURALS

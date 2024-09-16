@@ -1,0 +1,12 @@
+-
+  Text: This is a sentence.
+-
+  Text: These are sentences.
+-
+  Text: This is another sentence.
+-
+  Text: |2-
+    This is a text consisting of sentences.
+    They are on separate lines.
+-
+  Text: It's a sentence.

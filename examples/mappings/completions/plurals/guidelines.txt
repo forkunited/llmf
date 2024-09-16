@@ -1,0 +1,6 @@
+You should provide labels for texts based on whether or not they contain plural nouns. The labels are as follows:
+
+1. HAS_PLURALS: For sentences containing at least one plural noun.
+2. NO_PLURALS: For sentences containing no plural nouns.
+
+Before giving the label, first extract a comma separated list of all the nouns in the text.

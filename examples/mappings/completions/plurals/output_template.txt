@@ -1,0 +1,2 @@
+Nouns from the text: {Nouns}
+Label for the text: {Plurality Label}

@@ -1,0 +1,7 @@
+Text	Nouns	Plurality Label	Completion Success	Error Message	Completion
+This is a sentence.	sentence	NO_PLURALS	True	None	"Nouns from the text: sentence
+Label for the text: NO_PLURALS"
+These are sentences.	sentences	HAS_PLURALS	True	None	"Nouns from the text: sentences
+Label for the text: HAS_PLURALS"
+This is another sentence.	sentence	NO_PLURALS	True	None	"Nouns from the text: sentence
+Label for the text: NO_PLURALS"
